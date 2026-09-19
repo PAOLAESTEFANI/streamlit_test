@@ -1,0 +1,5 @@
+Ini, TOML
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
